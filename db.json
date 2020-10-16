@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Murtaza",
+      "age": 30
+    },
+    {
+      "name": "Saleem",
+      "id": 2,
+      "age": 40
+    },
+    {
+      "name": "Fakhir",
+      "id": 3,
+      "age": 33
+    },
+    {
+      "name": "Muneer",
+      "id": 4,
+      "age": 32
+    },
+    {
+      "id": 5,
+      "name": "Abdullah",
+      "age": 28
+    },
+    {
+      "id": 6,
+      "name": "Naseem",
+      "age": 29
+    },
+    {
+      "id": 7,
+      "name": "Tanveer",
+      "age": 30
+    }
+  ]
+}
